@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0e9"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect width="400" height="600" rx="34" fill="url(#g)"/>
+<circle cx="330" cy="85" r="90" fill="#c95a7a" opacity=".12"/><circle cx="70" cy="530" r="110" fill="#c95a7a" opacity=".08"/>
+<path d="M70 120 C145 45 260 55 330 130" fill="none" stroke="#c95a7a" stroke-width="8" opacity=".45" stroke-linecap="round"/>
+<text x="200" text-anchor="middle" fill="#542b2b" font-family="Comfortaa,Arial,sans-serif" font-size="34" font-weight="700"><tspan x="200" y="221">Cải Tạo Kẻ Bám</tspan><tspan x="200" y="269">Đuôi</tspan></text>
+<text x="200" y="500" text-anchor="middle" fill="#c95a7a" font-family="Arial,sans-serif" font-size="20">CBunu Demo</text>
+<rect x="45" y="535" width="310" height="18" rx="9" fill="#c95a7a" opacity=".3"/>
+</svg>
